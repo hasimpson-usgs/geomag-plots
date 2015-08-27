@@ -25,7 +25,11 @@ var DEFAULTS = {
     'SHU',
     'SIT',
     'SJG',
-    'TUC'
+    'TUC',
+    'TST',
+    'BRT',
+    'CMT',
+    'DHT'
   ]
 };
 

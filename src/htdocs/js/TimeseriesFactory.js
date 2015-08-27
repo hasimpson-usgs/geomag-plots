@@ -7,7 +7,7 @@ var Util = require('util/Util'),
 
 
 var _DEFAULTS = {
-  url: 'http://geomag.usgs.gov/map/observatories_data.json.php'
+  url: 'http://ehpd-geomag.cr.usgs.gov/map/observatories_data.json.php'
 };
 
 
