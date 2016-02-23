@@ -26,6 +26,7 @@ var DEFAULTS = {
     'SIT',
     'SJG',
     'TUC',
+    'BDT',
     'TST',
     'BRT',
     'CMT',

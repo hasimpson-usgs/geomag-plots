@@ -41,7 +41,9 @@ app = TimeseriesApp({
     'DeltaF',
     'X',
     'Y',
-    'Dist'
+    'Dist',
+    'SQ',
+    'SV'
   ],
   config: {
     channel: 'H',
